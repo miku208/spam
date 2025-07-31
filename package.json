@@ -1,0 +1,15 @@
+{
+  "name": "miku-spam-email",
+  "version": "1.0.0",
+  "description": "Spam Email By Miku",
+  "main": "miku.js",
+  "scripts": {
+    "start": "node miku.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "nodemailer": "^6.9.13"
+  },
+  "author": "Miku",
+  "license": "MIT"
+}
